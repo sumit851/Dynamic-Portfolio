@@ -22,3 +22,9 @@ terraform.rc
 
 # Ignore .terraform directory
 .terraform/
+
+# Ignore Terraform plan files
+tfplan
+
+# Ignore VS Code configuration directory
+.vscode/
